@@ -2,6 +2,10 @@
 
 useful kicad components
 
+## Manufacturing
+
+* [Manual](MANUFACTURING.md)
+
 ## Components
 
 | Library    | Component        | Symbol | Footprint | 3D shape |
